@@ -1,12 +1,11 @@
-![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)
+[MasterHead](https://camo.githubusercontent.com/428849a3d464b1157a940971233a54d081bfa7ea3f3a47c62d1e2854c0e19566/68747470733a2f2f70726f736566756c2e696d6769782e6e65742f626c6f67732f64663337333431342d653737632d346433642d386337622d3335636635356632333339362f696d616765732f34336263316535372d356665662d343436302d626630382d3466373966333635343535352e676966)
 <h1 align="center">Hi 👋, I'm Sunjana Alam Purba</h1>
 <h3 align="center">"Passionate Student Developer | Seeking Opportunities to Learn and Grow"</h3>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/53329034/123502306-0fcdfc80-d669-11eb-87e4-d24cccfbbd00.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/6c3198f753c2de8f79a350a9e7deb51692cc53a8991f0cb65ab121cd35ea586c/68747470733a2f2f6d656469612e74656e6f722e636f6d2f416c556b69476b52326a38414141414d2f6e65772d67616d652d616861676f6e2d756d696b6f2d70726f6772616d6d696e672e676966">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sunjanapurba&label=Profile%20views&color=0e75b6&style=flat" alt="sunjanapurba" /> </p>
 
-- 🌱 I’m currently learning **Web Development Course**
-
-- ⚡ Fun fact **I am funny**
+- 🌱 I’m currently learning **Front-end development, Back-end development**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -19,3 +18,9 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sunjanapurba&show_icons=true&locale=en&layout=compact" alt="sunjanapurba" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sunjanapurba&show_icons=true&locale=en" alt="sunjanapurba" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sunjanapurba&" alt="sunjanapurba" /></p>
