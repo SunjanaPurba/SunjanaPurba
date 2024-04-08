@@ -5,6 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunjanapurba&label=Profile%20views&color=0e75b6&style=flat" alt="sunjanapurba" /> </p>
 
+- 🔭 I’m currently working on **Web Development**
+
 - 🌱 I’m currently learning **Front-end development, Back-end development**
 
 <h3 align="left">Connect with me:</h3>
