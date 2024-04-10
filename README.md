@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/74038190/221352995-5ac18bdf-1a19-4f99-bbb6-77559b220470.gif)
+![MasterHead](https://media.licdn.com/dms/image/D5616AQH4HtpfVUtHHQ/profile-displaybackgroundimage-shrink_350_1400/0/1712695282271?e=1718236800&v=beta&t=reF9lQAXM19TB3ACmsa9m7ddYx75BCIYy0Y_F_U7uEE)
 <h1 align="center">Hi 👋, I'm Sunjana Alam Purba</h1>
 <h3 align="center">"Passionate Student Developer | Seeking Opportunities to Learn and Grow"</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/6c3198f753c2de8f79a350a9e7deb51692cc53a8991f0cb65ab121cd35ea586c/68747470733a2f2f6d656469612e74656e6f722e636f6d2f416c556b69476b52326a38414141414d2f6e65772d67616d652d616861676f6e2d756d696b6f2d70726f6772616d6d696e672e676966">
