@@ -1,7 +1,7 @@
 ![MasterHead](https://media.licdn.com/dms/image/D5616AQGBtMWMRBYz1Q/profile-displaybackgroundimage-shrink_350_1400/0/1713383321471?e=1718841600&v=beta&t=b6CjiVvdfF_YI_UajAtfNq7s8TQUX3onPr7dAsEUuX0)
 <h1 align="center">Hi 👋, I'm Sunjana Alam Purba</h1>
 <h3 align="center">"Passionate Student Developer | Seeking Opportunities to Learn and Grow"</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/6c3198f753c2de8f79a350a9e7deb51692cc53a8991f0cb65ab121cd35ea586c/68747470733a2f2f6d656469612e74656e6f722e636f6d2f416c556b69476b52326a38414141414d2f6e65772d67616d652d616861676f6e2d756d696b6f2d70726f6772616d6d696e672e676966">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sunjanapurba&label=Profile%20views&color=0e75b6&style=flat" alt="sunjanapurba" /> </p>
 
