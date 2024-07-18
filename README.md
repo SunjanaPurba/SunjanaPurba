@@ -1,4 +1,4 @@
-![MasterHead](https://media.licdn.com/dms/image/D5616AQGBtMWMRBYz1Q/profile-displaybackgroundimage-shrink_350_1400/0/1713383321471?e=1718841600&v=beta&t=b6CjiVvdfF_YI_UajAtfNq7s8TQUX3onPr7dAsEUuX0)
+![MasterHead](https://www.linkedin.com/in/sunjanaalampurba/overlay/background-image/)
 <h1 align="center">Hi 👋, I'm Sunjana Alam Purba</h1>
 <h3 align="center">"Passionate Student Developer | Seeking Opportunities to Learn and Grow"</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
