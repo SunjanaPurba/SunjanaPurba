@@ -1,6 +1,6 @@
 <!-- Animated Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1500&color=F72585&center=true&vCenter=true&width=700&lines=Hi%20👋%20I%27m%20Sunjana%20Alam%20Purba;Student%20Developer;Web%20Dev+Enthusiast;Always+Learning%20🚀" alt="Typing SVG" />
+  <img src="https://camo.githubusercontent.com/5bf0da46c5398f75e2ec953592c02afcf69379dcdb12a0c2922654a57b51fce2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966"alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -9,14 +9,6 @@
 
 # 🌟 Sunjana Alam Purba
 ### Student | Developer | Web Enthusiast
-
----
-
-## 🏆 Achievements
-- 🥇 **CodeChef**: 3⭐ Rating | 1500+ Rating Points
-- 🥇 **Codeforces**: 4⭐ Rating | 1800+ Rating Point
-- 🥇 **HackerRank**: 4⭐ Rating | 1800+ Rating Points
-- 🏅 **Google Kick Start**: Qualified Round E (2023)
 
 ---
 
@@ -113,52 +105,4 @@
 
 ---
 
-## 📊 GitHub Contributions
-<p align="center">
-  <img alt="GitHub Contributions" src="https://raw.githubusercontent.com/sunjanapurba/sunjanapurba/output/github-contributions.svg" />
-</p>
-
----
-
-## 📊 GitHub Streak
-<p align="center">
-  <img alt="GitHub Streak" src="https://raw.githubusercontent.com/sunjanapurba/sunjanapurba/output/github-streak.svg" />
-</p>
-
----
-
-## 📊 GitHub Activity Timeline
-<p align="center">
-  <img alt="GitHub Activity Timeline" src="https://raw.githubusercontent.com/sunjanapurba/sunjanapurba/output/github-activity-timeline.svg" />
-</p>
-
----
-
-## 📊 GitHub Commit Calendar
-<p align="center">
-  <img alt="GitHub Commit Calendar" src="https://raw.githubusercontent.com/sunjanapurba/sunjanapurba/output/github-commit-calendar.svg" />
-</p>
-
----
-
-## 📊 GitHub Commit Graph
-<p align="center">
-  <img alt="GitHub Commit Graph" src="https://raw.githubusercontent.com/sunjanapurba/sunjanapurba/output/github-commit-graph.svg" />
-</p>
-
----
-
-## 📈 Weekly Development Breakdown
-<div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sunjanapurba&theme=react-dark&area=true&hide_border=true" height="200" />
-</div>
-
----
-
-## 🎮 Pacman Contribution Graph  
-<p align="center">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/sunjanapurba/sunjanapurba/output/pacman-contribution-graph.svg" />
-</p>
-
----
 
