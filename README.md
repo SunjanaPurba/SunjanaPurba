@@ -7,8 +7,9 @@
   <img src="https://komarev.com/ghpvc/?username=sunjanapurba&label=Profile%20Views&color=brightgreen&style=flat" />
 </p>
 
-# 🌟 Sunjana Alam Purba
-### Student | Developer | Web Enthusiast
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1500&color=F72585&center=true&vCenter=true&width=700&lines=🌟+Hi+👋+I'm+Sunjana+Alam+Purba;👩‍🎓+CSE+Student;💻+Aspiring+Full-Stack+Developer;🌐+Web+&+Tech+Enthusiast+🚀" alt="Typing SVG" />
+</p>
 
 ---
 
