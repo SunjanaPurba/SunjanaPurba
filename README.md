@@ -1,4 +1,3 @@
-<!-- Animated Banner -->
 <p align="center">
   <img src="https://camo.githubusercontent.com/5bf0da46c5398f75e2ec953592c02afcf69379dcdb12a0c2922654a57b51fce2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313336343032392f73637265656e73686f74732f31363039333236382f6d656469612f36386538326137666234393034363134613930363664366235343063313462322e676966"alt="Typing SVG" />
 </p>
@@ -7,7 +6,9 @@
   <img src="https://komarev.com/ghpvc/?username=sunjanapurba&label=Profile%20Views&color=brightgreen&style=flat" />
 </p>
 
-https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1500&color=F72585&center=true&vCenter=true&width=700&lines=Hello+World;I+Love+Coding
+
+<h1 align="center">🌟 Sunjana Alam Purba</h1>
+<h3 align="center">👩‍🎓 CSE Student • 💻 Aspiring Full-Stack Developer • 🌐 Web & Tech Enthusiast 🚀</h3>
 
 
 ---
@@ -16,7 +17,7 @@ https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause
 - 🔭 Currently working on **Web Development Projects**  
 - 🌱 Learning **Front-end & Back-end Development**  
 - 💡 Love exploring new tools & technologies  
-- 🎯 Goal: Become a full-stack developer  
+ 
 
 ---
 
